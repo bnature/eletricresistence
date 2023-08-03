@@ -1,5 +1,6 @@
 {
     "name": "電阻測試裝置",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
